@@ -1,4 +1,6 @@
-
+# Nama: Indira Suci Fitriani
+# Program Studi: Teknik Informatika
+# NIM: 552010125006
 
 def konversi_suhu(celcius):
     fahrenheit = (9/5 * celcius) + 32
