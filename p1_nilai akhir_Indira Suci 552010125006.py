@@ -1,4 +1,7 @@
-
+# Nama: Indira Suci Fitriani
+# Program Studi: Teknik Informatika
+# NIM: 552010125006
+# Program latihan 2 nilai akhir
 
 def hitung_nilai_akhir(tugas, uts, uas):
     return (0.3 * tugas) + (0.3 * uts) + (0.4 * uas)
